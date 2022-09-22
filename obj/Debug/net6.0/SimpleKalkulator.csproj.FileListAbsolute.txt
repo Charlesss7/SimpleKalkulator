@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\bin\Debug\net6.0\SimpleKalkulator.exe
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\bin\Debug\net6.0\SimpleKalkulator.deps.json
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\bin\Debug\net6.0\SimpleKalkulator.runtimeconfig.json
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\bin\Debug\net6.0\SimpleKalkulator.dll
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\bin\Debug\net6.0\SimpleKalkulator.pdb
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.AssemblyInfo.cs
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.dll
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\refint\SimpleKalkulator.dll
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.pdb
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\SimpleKalkulator.genruntimeconfig.cache
+D:\Kuliah\Semester 7\Github\TestGithub\SimpleKalkulator\obj\Debug\net6.0\ref\SimpleKalkulator.dll
